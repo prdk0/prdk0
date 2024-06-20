@@ -2,6 +2,8 @@
 <h3 align="center">A passionate learner from India</h3>
 
 - 🔭 I’m currently working on buiding a bare minimum database [tiny-database](https://github.com/prdk0/tiny-database)
+-  other projects I have done
+    - tiny online compiler [tiny-compiler](https://github.com/prdk0/tiny-online-compiler)
 
 - 💬 Ask me about **golang**
 
