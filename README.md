@@ -4,6 +4,14 @@
 - 🔭 I’m currently working on buiding a bare minimum database [tiny-database](https://github.com/prdk0/tiny-database)
 -  other projects I have done
     - tiny online compiler [tiny-compiler](https://github.com/prdk0/tiny-online-compiler)
+          |     |     |     |     |     |
+    | --- | --- | --- | --- | --- |Table 1
+    |     | Project Name | Languages | Repository | Status |
+    | --- | --- | --- | --- | --- |
+    |     |     |     |     |     |
+    |     |     |     |     |     |
+    |     |     |     |     |     |
+    |     |     |     |     |     |
       
 - 💬 Ask me about **golang**
 
