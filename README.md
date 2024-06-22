@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on buiding a bare minimum database [tiny-database](https://github.com/prdk0/tiny-database)
 -  other projects I have done
     - tiny online compiler [tiny-compiler](https://github.com/prdk0/tiny-online-compiler)
-<style>
+
+<div class="table_component" role="region" tabindex="0">
+    <style>
 .table_component {
     overflow: auto;
     width: 100%;
@@ -39,7 +41,6 @@
     padding: 5px;
 }
 </style>
-<div class="table_component" role="region" tabindex="0">
 <table>
     <caption>Table 1</caption>
     <thead>
