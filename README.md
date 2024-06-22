@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradeek</h1>
+<h1 align="center">Hi, I'm Pradeek</h1>
 <h3 align="center">A passionate learner from India</h3>
 
 - 🔭 I’m currently working on buiding a bare minimum database [tiny-database](https://github.com/prdk0/tiny-database)
