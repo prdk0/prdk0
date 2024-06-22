@@ -4,17 +4,7 @@
 - 🔭 I’m currently working on buiding a bare minimum database [tiny-database](https://github.com/prdk0/tiny-database)
 -  other projects I have done
     - tiny online compiler [tiny-compiler](https://github.com/prdk0/tiny-online-compiler)
-.table\_component { overflow: auto; width: 100%; } .table\_component table { border: 1px solid #dededf; height: 100%; width: 100%; table-layout: fixed; border-collapse: collapse; border-spacing: 1px; text-align: left; } .table\_component caption { caption-side: top; text-align: left; } .table\_component th { border: 1px solid #dededf; background-color: #eceff1; color: #000000; padding: 5px; } .table\_component td { border: 1px solid #dededf; background-color: #ffffff; color: #000000; padding: 5px; }
-
-Table 1
-
-Project Name
-
-Languages
-
-Repository
-
-Status
+      
 - 💬 Ask me about **golang**
 
 - 📫 How to reach me **pradeek.k@gmail.com**
