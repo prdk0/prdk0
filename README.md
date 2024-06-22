@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on buiding a bare minimum database [tiny-database](https://github.com/prdk0/tiny-database)
 -  other projects I have done
     - tiny online compiler [tiny-compiler](https://github.com/prdk0/tiny-online-compiler)
-
 <div class="table_component" role="region" tabindex="0">
     <style>
 .table_component {
@@ -85,6 +84,7 @@
 </table>
 <div style="margin-top:8px">Made with <a href="https://www.htmltables.io/" target="_blank">HTML Tables</a></div>
 </div>
+
 
 - 💬 Ask me about **golang**
 
