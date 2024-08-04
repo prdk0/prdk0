@@ -1,20 +1,6 @@
 <h1 align="center">Hi, I'm Pradeek</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-- 🔭 I’m currently working on buiding a bare minimum database [tiny-database](https://github.com/prdk0/tiny-database)
--  other projects I have done
-    - tiny online compiler [tiny-compiler](https://github.com/prdk0/tiny-online-compiler)
-          |     |     |     |     |     |
-    | --- | --- | --- | --- | --- |Table 1
-    |     | Project Name | Languages | Repository | Status |
-    | --- | --- | --- | --- | --- |
-    |     |     |     |     |     |
-    |     |     |     |     |     |
-    |     |     |     |     |     |
-    |     |     |     |     |     |
-      
-- 💬 Ask me about **golang**
-
 - 📫 How to reach me **pradeek.k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
